@@ -7,3 +7,4 @@ Wukun
 This is test
 Git tracks changes
 Git has a mutable index called stage
+hello  is me you father
