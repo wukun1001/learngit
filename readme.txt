@@ -1,0 +1,9 @@
+Git is a version control system.
+Git is free software
+Git is a distrubuted version control system
+Hello
+My Name is
+Wukun
+This is test
+Git tracks changes
+Git has a mutable index called stage
