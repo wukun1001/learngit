@@ -17,3 +17,4 @@ HELLO
 Hi i miss you
  
 >>>>>>> feature1
+Hi is me
