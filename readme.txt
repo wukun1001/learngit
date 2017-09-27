@@ -11,10 +11,6 @@ hello  is me you father
 Createing a new branch is quick
 Creating a new branch is quick.
 Creating a new branch is quick.
-<<<<<<< HEAD
 HELLO
-=======
 Hi i miss you
- 
->>>>>>> feature1
 Hi is me
